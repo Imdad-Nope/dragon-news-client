@@ -2,8 +2,7 @@
 
 ## Dragon-news --- 
 
-Live link: [DragonNews](https://jerin-parlour-749ae.firebaseapp.com/](https://dragon-news-paper-1829a.web.app/).
- [My Portfolio](https://my-portfolio-3ba9f.web.app/).
+Live link: [Dragon News](https://dragon-news-paper-1829a.web.app/)
 ## Materials Used : 
 
 ### React
